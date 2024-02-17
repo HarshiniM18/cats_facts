@@ -1,0 +1,10 @@
+.page-header{
+    background-image: linear-gradient(to right, rgb(68, 140, 223),rgb(93, 221, 172) );
+    text-align: center;
+    color: aliceblue;
+    padding: 100px 300px 100px 300px;
+}
+.main-content{
+    padding-left: 250px;
+    padding-right: 250px;
+}
